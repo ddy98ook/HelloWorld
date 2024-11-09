@@ -1,5 +1,13 @@
 #incldue "stdio.h"
 
+void paixu(int arr[],char arr1[])
+{
+   for(int i=0;i<arr[0];i++)
+   {
+  arr1[i]++; 
+   }
+
+}
 
 int main()
 {
