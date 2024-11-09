@@ -6,7 +6,7 @@ void paixu(int arr[],char arr1[])
    {
   arr1[i]++; 
    }
-
+//分支测试 
 }
 
 int main()
